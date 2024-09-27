@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1306",
+      "name": "购物车空",
+      "font_class": "gouwuchekong",
+      "unicode": "f0179",
+      "unicode_decimal": 983417
+    },
+    {
+      "icon_id": "7420",
+      "name": "宝贝",
+      "font_class": "baobei",
+      "unicode": "f0294",
+      "unicode_decimal": 983700
+    },
+    {
+      "icon_id": "577367",
+      "name": "搜索类目",
+      "font_class": "sousuoleimu",
+      "unicode": "e754",
+      "unicode_decimal": 59220
+    },
+    {
+      "icon_id": "629317",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "1239923",
+      "name": "频道",
+      "font_class": "pindao",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "2076365",
+      "name": "进入箭头小",
+      "font_class": "jinrujiantouxiao",
+      "unicode": "e8b9",
+      "unicode_decimal": 59577
+    },
+    {
+      "icon_id": "5460560",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "ec2e",
+      "unicode_decimal": 60462
+    },
+    {
+      "icon_id": "5767877",
+      "name": "优惠",
+      "font_class": "youhui",
+      "unicode": "ec35",
+      "unicode_decimal": 60469
+    },
+    {
+      "icon_id": "33987017",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "39501418",
+      "name": "SAAS-资质服务",
+      "font_class": "SAAS-zizhifuwu",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    }
+  ]
+}

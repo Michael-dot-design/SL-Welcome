@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1037700",
+      "name": "预约",
+      "font_class": "yuyue",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "4138826",
+      "name": "管理",
+      "font_class": "guanli",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "10951728",
+      "name": "反馈",
+      "font_class": "fankui",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "34792143",
+      "name": "a-lianhe23",
+      "font_class": "a-lianhe23",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
